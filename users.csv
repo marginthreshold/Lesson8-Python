@@ -1,0 +1,4 @@
+﻿Фамилия,Имя,login,password,role
+Админский,Админ,admin_god,admin,admin
+Иванов,Андрей,andr,andr123,teacher
+Лаванов,Александр,lavan,pass,student
